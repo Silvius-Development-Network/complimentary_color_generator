@@ -1,0 +1,23 @@
+{
+  "name": "complimentary_color_generator",
+  "version": "1.0.0",
+  "description": "complimentary color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silvius-Development-Network/complimentary_color_generator.git"
+  },
+  "keywords": [
+    "complimentary",
+    "color"
+  ],
+  "author": "Silviu & Bqardi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Silvius-Development-Network/complimentary_color_generator/issues"
+  },
+  "homepage": "https://github.com/Silvius-Development-Network/complimentary_color_generator#readme"
+}
