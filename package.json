@@ -1,5 +1,5 @@
 {
-  "name": "complimentary_color_generator",
+  "name": "@silv21/complimentary_color_generator",
   "version": "1.0.0",
   "description": "complimentary color",
   "main": "index.js",
