@@ -1,7 +1,7 @@
 function complimentaryColor(color) {
     var array = color.split("("); //makes an array : hsl and values
     var defaultValues = array[1].split(","); // makes an array from values
-
+    
     //setting the condition for values
     var theComplimentaryValue = defaultValues[0] >= 180 ? defaultValues[0]-180 : parseInt(defaultValues[0])+180;
 
@@ -13,5 +13,6 @@ function complimentaryColor(color) {
     return theComplimentaryColor
   
 }
+
 
 export default complimentaryColor;
